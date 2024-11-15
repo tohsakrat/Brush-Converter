@@ -1,5 +1,5 @@
-# Brush-Converter
-
+# Brush-Converter - 笔刷提取
+自存，用来提取和转换不同绘画软件的笔刷！
 Those script can unpack material image files and params from brushes of different software, including .abr(photoshop), .brushset(procreate), .sut(clip studio paint). However it can not pack back yet. Because we still don't know the rules of new version .abr totally, and can not solve digital assets of .layer file in .sut brush. I'm looking for ways. 
 Use them in Shell terminal this:
 ![image](https://github.com/user-attachments/assets/05da91b6-a759-4768-833c-169487428270)
